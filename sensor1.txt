@@ -1,7 +1,0 @@
-la data
-la data1
-la data2
-la data3
-la data2
-la data3
-la data2
